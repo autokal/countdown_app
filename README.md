@@ -1,8 +1,6 @@
 # countdown_app
 
 
-for more packages use https://pypi.org/
-
 ___________________
 example input
 -> learn english:12.08.2021
